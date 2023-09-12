@@ -7,6 +7,6 @@
     </a>
   </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christian-aiello&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=christian-aiello&theme=dark&border_radius=10&ring=0090FF&currStreakLabel=0090FF)](https://git.io/streak-stats)
 
 </div>
